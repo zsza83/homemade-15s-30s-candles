@@ -234,3 +234,14 @@ Left open on purpose — “why not this way?” comments:
 ---
 
 *This doc matches the live path (`main.py` fan-out + `trade_manager` tracking). Older `r-*` / backup mains may have richer 30s swap logic — that is not the default path.*
+
+---
+
+## Related: own-stack market data (sister dockit)
+
+15s/30s answer *how* we bucket WS last. Separately: *where* durable history lives when JSON is too slow on the hot path.
+
+- Live article: https://vpnstronger.com/own-stack-market-data-for-daytrade-bots-json-is-too-slow-what-instead
+- Repo + open questions: https://github.com/zsza83/own-stack-market-data
+
+Same stance: **94 is not 100**. Not financial advice.
