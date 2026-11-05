@@ -248,6 +248,16 @@ Same stance: **94 is not 100**. Not financial advice.
 
 ---
 
+
+## Related: own activity calendar (sister OwnStack dockit)
+
+Same Own Development Log pattern — familiar shape, own implementation, zero external widget.
+
+- Live article: https://vpnstronger.com/own-activity-calendar-familiar-shape-zero-external-widget
+- Repo + open questions: https://github.com/zsza83/own-activity-calendar
+- Homepage Activity block: https://vpnstronger.com
+
+Not trading. Same sovereignty stance: no borrowed contribution embed for a pretty graph.
 ## Related idea: shock-fade (not the gap path)
 
 Same stack, different job. The sections above are **gap lead-lag**: entries from ticks; 15s/30s only for micro-exit / dead-coin cleanup.
